@@ -169,7 +169,7 @@
         <active>true</active>
         <label>TestRecord2</label>
     </recordTypes>
-    <searchLayouts />
+    <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
 </CustomObject>
