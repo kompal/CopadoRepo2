@@ -524,6 +524,24 @@
         </filters>
         <label>New This Week</label>
     </listViews>
+    <recordTypes>
+        <fullName>TechTest1</fullName>
+        <active>true</active>
+        <description>checking commit diff</description>
+        <label>TechTest1</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>TechTest2</fullName>
+        <active>true</active>
+        <description>checking commit diff</description>
+        <label>TechTest2</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>TechTest3</fullName>
+        <active>true</active>
+        <description>checking commit diff</description>
+        <label>TechTest3</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>FULL_NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
