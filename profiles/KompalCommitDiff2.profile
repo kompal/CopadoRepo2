@@ -2535,12 +2535,24 @@
         <recordType>Contact.TechTest2</recordType>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Contact-Contact Layout 2</layout>
+        <recordType>Contact.TechlTest2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Contact-Contact Layout 3</layout>
         <recordType>Contact.TechTest3</recordType>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Contact-Contact Layout 3</layout>
+        <recordType>Contact.TechlTest3</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Contact-Contact Layout</layout>
         <recordType>Contact.TechTest1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Contact-Contact Layout</layout>
+        <recordType>Contact.TechlTest1</recordType>
     </layoutAssignments>
     <layoutAssignments>
         <layout>ContactPointAddress-Contact Point Address Layout</layout>
@@ -3384,6 +3396,21 @@
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Contact.TechTest3</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Contact.TechlTest1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Contact.TechlTest2</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Contact.TechlTest3</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
