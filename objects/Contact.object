@@ -542,6 +542,24 @@
         <description>checking commit diff</description>
         <label>TechTest3</label>
     </recordTypes>
+    <recordTypes>
+        <fullName>TechlTest1</fullName>
+        <active>true</active>
+        <description>checking commit diff2</description>
+        <label>TechlTest1</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>TechlTest2</fullName>
+        <active>true</active>
+        <description>checking commit diff2</description>
+        <label>TechlTest2</label>
+    </recordTypes>
+    <recordTypes>
+        <fullName>TechlTest3</fullName>
+        <active>true</active>
+        <description>checking commit diff2</description>
+        <label>TechlTest3</label>
+    </recordTypes>
     <searchLayouts>
         <customTabListAdditionalFields>FULL_NAME</customTabListAdditionalFields>
         <customTabListAdditionalFields>ACCOUNT.NAME</customTabListAdditionalFields>
