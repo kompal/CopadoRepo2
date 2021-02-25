@@ -2493,6 +2493,18 @@
         <layout>Account-Account Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Account-Account Layout 2</layout>
+        <recordType>Account.CommitRec1</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout 360</layout>
+        <recordType>Account.CommitRec3</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Account-Account Layout 3</layout>
+        <recordType>Account.CommitRec2</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Address-Address Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
@@ -3294,6 +3306,21 @@
     <recordTypeVisibilities>
         <default>false</default>
         <recordType>Contact.TechTest3</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.CommitRec1</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>false</default>
+        <recordType>Account.CommitRec2</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <default>true</default>
+        <recordType>Account.CommitRec3</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <recordTypeVisibilities>
