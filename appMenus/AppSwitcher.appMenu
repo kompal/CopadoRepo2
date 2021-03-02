@@ -84,4 +84,8 @@
         <name>kompal2</name>
         <type>Network</type>
     </appMenuItems>
+    <appMenuItems>
+        <name>kompal2Dev2</name>
+        <type>Network</type>
+    </appMenuItems>
 </AppMenu>
