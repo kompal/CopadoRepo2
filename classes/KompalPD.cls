@@ -1,7 +1,8 @@
 public class KompalPD {
 
   public Account createAccount(String name) { //method to create account
-        Account acc = new Account();
+      System.debug('kompal adding.');  
+      Account acc = new Account();
         acc.Name = name;
         return acc;
 	}
